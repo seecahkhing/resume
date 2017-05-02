@@ -1,68 +1,68 @@
 {
   "basics": {
-    "name": “Sedrix Caritero”,
-    "label": “Senior iOS Developer“,
+    "name": "Sedrix Caritero”,
+    "label": "Senior iOS Developer“,
     "picture": "https://media.licdn.com/media/p/8/005/095/163/37256de.jpg",
-    "email": “sedrix.caritero@flightdigitalmedia.com",
+    "email": "sedrix.caritero@flightdigitalmedia.com",
     "phone": "+639778118790”
   },
   "education": [{
-    "institution": “University of San Carlos - Technological Center”,
-    "course": “Computer Engineering“,
+    "institution": "University of San Carlos - Technological Center”,
+    "course": "Computer Engineering“,
     "studyType": "Bachelor",
-    "startDate": “2002”,
+    "startDate": "2002”,
     "endDate": "2007”
   }],
   "skills": [
     {
       "category": "Programming Languages",
       "technologies":[{
-        "name": “C++”,
+        "name": "C++”,
         "number_of_years": 2
       }, {
-        "name": “Lite C - 3D Game Studio“,
+        "name": "Lite C - 3D Game Studio“,
         "number_of_years": 2
       }, {
         "name": "Javascript",
         "number_of_years": 0.5
       }, {
-        "name": “Objective C”,
+        "name": "Objective C”,
         "number_of_years": 4
       }, {
-        "name": “Swift”,
+        "name": "Swift”,
         "number_of_years": 1
       }, {
-        "name": “C#”,
+        "name": "C#”,
         "number_of_years": 0.5
       }, {
-        "name": “Java”,
+        "name": "Java”,
         "number_of_years": 1
       }, ]
     },{
-      "category": “Mobile Technologies",
+      "category": "Mobile Technologies",
       "technologies":[{
-        "name": “Objective C”,
+        "name": "Objective C”,
         "number_of_years": 4
       }, {
-        "name": “Swift”,
+        "name": "Swift”,
         "number_of_years": 1
       }, {
-        "name": “Cocos2D”,
+        "name": "Cocos2D”,
         "number_of_years": 0.5
       }]
     },{
       "category": "Development Frameworks",
       "technologies":[{
-        "name": “Parse”,
+        "name": "Parse”,
         "number_of_years": 1
       }, {
-        "name": “Firebase”,
+        "name": "Firebase”,
         "number_of_years": 0.5
       }, {
-        "name": “RxSwift”,
+        "name": "RxSwift”,
         "number_of_years": 0.5
       }, {
-        "name": “Pods”,
+        "name": "Pods”,
         "number_of_years": 2
       }]
     },{
@@ -71,22 +71,22 @@
         "name": "Git",
         "number_of_years": 4
       }, {
-        "name": “Subversion”,
+        "name": "Subversion”,
         "number_of_years": 2
       }, {
-        "name": “Mercurial”,
+        "name": "Mercurial”,
         "number_of_years": 1
       }]
     },{
       "category": "Operating System",
       "technologies":[{
-        "name": “Windows”,
-        "number_of_years": 4
+        "name": "Windows”,
+        "number_of_years": 10
       }, {
-        "name": “Mac”,
+        "name": "Mac”,
         "number_of_years": 6
       }, , {
-        "name": “Linux”,
+        "name": "Linux”,
         "number_of_years": 1
       }]
     },{
@@ -99,10 +99,10 @@
   ],
   "work": [{
     "company": "Flight Digital Media",
-    "position": “iOS Developer“,
-    "startDate": “April 2014”,
+    "position": "iOS Developer“,
+    "startDate": "April 2014”,
     "endDate": "Present",
-    "summary": “Build iOS applications both internal and outsourced apps. Lead the ios team and help gather requirements and estimates to build an iOS app.”,
+    "summary": "Build iOS applications both internal and outsourced apps. Lead the ios team and help gather requirements and estimates to build an iOS app.”,
     "highlights": [],
     "projects":[
       {
@@ -111,7 +111,7 @@
         "role":"Developer/Lead”,
         "startDate":"2015”,
         "endDate":"Present",
-	“appstoreURL”:”https://itunes.apple.com/ph/app/coca-cola-happy-shopmate/id932332871?mt=8"
+	"appstoreURL”:”https://itunes.apple.com/ph/app/coca-cola-happy-shopmate/id932332871?mt=8"
         "technologies”:”Objective C, Pods, Xcode”
       },{
         "name”:”PowerTeam”,
@@ -119,7 +119,7 @@
         "role":"Developer”,
         "startDate":"2015”,
         "endDate”:”2016”,
-	“appstoreURL”:”https://itunes.apple.com/us/app/id862301512"
+	"appstoreURL”:”https://itunes.apple.com/us/app/id862301512"
         "technologies”:”Objective C, Pods, Xcode”
       },{
         "name”:”Zukii”,
@@ -127,7 +127,7 @@
         "role":"Lead/Consultant”,
         "startDate":"December 2016”,
         "endDate”:”Present”,
-	“appstoreURL”:”https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8"
+	"appstoreURL":"https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8"
         "technologies”:”Swift, Pods, Xcode”
       },{
         "name”:”Uplist”,
@@ -135,7 +135,7 @@
         "role”:”Main Developer”,
         "startDate”:”2016”,
         "endDate”:”2016”,
-	“appstoreURL”:”https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8"
+	"appstoreURL":"https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8"
         "technologies”:”Objective C, Pods, Xcode”
       },{
         "name”:”Wedding Spot”,
@@ -143,24 +143,24 @@
         "role”:”Lead Developer/Consultant”,
         "startDate":"2015”,
         "endDate”:”Present”,
-	“appstoreURL”:”https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8"
+	"appstoreURL":"https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8"
         "technologies”:”Objective C, Pods, Xcode”
       }
     ]
   },{
-    "company": “Nano Equipment PTE LTD”,
-    "role": “iOS Developer“,
-    "startDate": “March 2011”,
-    "endDate": “April 2014”,
-    "summary": “Work with backend team, account managers & testers from requirements gathering until product launching. Attend client meetings and presentations of the proposals and milestone for each iOS application.“,
+    "company": "Nano Equipment PTE LTD",
+    "role": "iOS Developer",
+    "startDate": "March 2011",
+    "endDate": "April 2014”,
+    "summary": "Work with backend team, account managers & testers from requirements gathering until product launching. Attend client meetings and presentations of the proposals and milestone for each iOS application.“,
     "highlights": [],
     "projects":[{
       "name":"oktoLIVE!",
       "description":"oktoLIVE! is a live TV variety show focusing on kids and the youth of  today. The show is produced by MediaCorp, Singapore’s leading media company and  the only terrestrial TV broadcaster.",
-      "role”:”Sole Developer",
+      "role":"Sole Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8"
+      "appstoreURL":"https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8"
       "technologies”:”Objective C, Pods, Xcode”
     },{
       "name":"Lightning@SG!",
@@ -168,7 +168,7 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/us/app/lightning-sg/id619575662?mt=8"
+      "appstoreURL":"https://itunes.apple.com/us/app/lightning-sg/id619575662?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"PoGo",
@@ -176,7 +176,7 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/ph/app/pogo/id612615088?mt=8"
+      "appstoreURL":"https://itunes.apple.com/ph/app/pogo/id612615088?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"Rent Far East",
@@ -184,7 +184,7 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/us/app/rent-far-east/id599476323?mt=8"
+      "appstoreURL":"https://itunes.apple.com/us/app/rent-far-east/id599476323?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"M1 Learning Centre",
@@ -192,39 +192,39 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/sg/app/m1-learning-centre/id552874785?mt=8"
+      "appstoreURL":"https://itunes.apple.com/sg/app/m1-learning-centre/id552874785?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"Qooco Talk",
-      "description":"You will improve by leaps and bounds as Qooco Talk's immersivelearning environment will keep you engaged with fun, effective exercises that are fully interactive. You will click, listen, observe and most importantly speak.",
-      "role”:”Developer",
+      "description":"You will improve by leaps and bounds as Qooco Talk's immersive learning environment will keep you engaged with fun, effective exercises that are fully interactive. You will click, listen, observe and most importantly speak.",
+      "role":"Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/us/app/qooco-talk-china/id561485263?mt=8"
+      "appstoreURL":"https://itunes.apple.com/us/app/qooco-talk-china/id561485263?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"NEA–Life Cycle Cost Calculator",
-      "description":"While energy efficient models may have higher purchase price thanless efficient ones, they tend to have lower life cycle costs due to the lower electricity costs over their lifespan.",
+      "description":"While energy efficient models may have higher purchase price than less efficient ones, they tend to have lower life cycle costs due to the lower electricity costs over their lifespan.",
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/sg/app/life-cycle-cost- calculator/id515908851?mt=8"
+      "appstoreURL":"https://itunes.apple.com/sg/app/life-cycle-cost- calculator/id515908851?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"Grammar Police– Chung Cheng Division",
-      "description":"Use the Grammar Police App to capture evidence of instances whereEnglish were used wrongly, then offer your corrections by commenting on the evidence.With its social networking functions, you and your friends can share, rate and comment on each others’ evidence and corrections. The app can also record where the evidence was captured.",
+      "description":"Use the Grammar Police App to capture evidence of instances where English were used wrongly, then offer your corrections by commenting on the evidence. With its social networking functions, you and your friends can share, rate and comment on each others’ evidence and corrections. The app can also record where the evidence was captured.",
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/sg/app/grammar-police-chung-cheng/id520392462?mt=8"
+      "appstoreURL":"https://itunes.apple.com/sg/app/grammar-police-chung-cheng/id520392462?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"iNAPFA – Catholic High",
-      "description":"iNAPFA let teachers record students’ NAPFA trials and actual testresults on the spot without the needs for paper. Results are wirelessly uploaded and stored on a server. Results and reports can be retrieved from iNAPFA web site. Points and awards are automatically calculated based on results and the age of the student. iNAPFA helps to improve productivity and save the environment.",
+      "description":"iNAPFA let teachers record students’ NAPFA trials and actual test results on the spot without the needs for paper. Results are wirelessly uploaded and stored on a server. Results and reports can be retrieved from iNAPFA web site. Points and awards are automatically calculated based on results and the age of the student. iNAPFA helps to improve productivity and save the environment.",
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/cn/app/inapfa-catholic-high-school/id526311684?mt=8"
+      "appstoreURL":"https://itunes.apple.com/cn/app/inapfa-catholic-high-school/id526311684?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"We Welcome Families",
@@ -232,7 +232,7 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”http://itunes.apple.com/tw/app/id460007964"
+      "appstoreURL":"http://itunes.apple.com/tw/app/id460007964"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"Wireless@SG Connect",
@@ -240,7 +240,7 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8"
+      "appstoreURL":"http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8"
       "technologies”:”Objective C, Xcode”
     },{
       "name":"Connector - TnD",
@@ -248,24 +248,24 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”https://itunes.apple.com/app/Connector-TnD/id435673819"
+      "appstoreURL":"https://itunes.apple.com/app/Connector-TnD/id435673819"
       "technologies”:”Objective C, Xcode”
     }]
   },{
-    "company": “Gemango Software Services Inc.”,
-    "position": “Game Developer",
-    "startDate": “March 2009”,
-    "endDate": “April 2011”,
+    "company": "Gemango Software Services Inc.",
+    "position": "Game Developer",
+    "startDate": "March 2009",
+    "endDate": "April 2011",
     "summary": "Scoping, Designing, Development, System Integration and Testing of new software and hardware components. Identify, track and find solutions for bugs of the game. Make procedural documentations and test plans",
     "highlights": [],
     "projects":[
 	{
       "name":"Eye-Twister",
-      "description":"A game application where the user needs to find the differencebetween the vector drawing.",
+      "description":"A game application where the user needs to find the difference between the vector drawing.",
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “appstoreURL”:”http://itunes.apple.com/sg/app/eye-twister/id407187596?mt=8"
+      "appstoreURL":"http://itunes.apple.com/sg/app/eye-twister/id407187596?mt=8"
       "technologies”:”Objective C, Xcode, Cocos 2D”
     }, {
       "name":"iClimbs",
@@ -277,18 +277,18 @@
     }, {
       "name":"AQARIUS",
       "description":"A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
-      "role”:”Lead Developer",
+      "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      “youtubeURL”: “https://www.youtube.com/watch?v=EH7u0zHDlnc”
+      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc"
       "technologies”:”3D Game Studio, LiteC”
     }, {
-      "name”:”Peloton”,
+      "name":"Peloton",
       "description":"A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
-      "role”:”Lead Developer",
+      "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      “youtubeURL”: “https://www.youtube.com/watch?v=EH7u0zHDlnc”
+      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc"
       "technologies”:”3D Game Studio, LiteC”
     }, {
       "name”:”DLL WRAPPER”,
@@ -296,14 +296,14 @@
       "role”:”Lead Developer",
       "startDate":"",
       "endDate":"",
-      “youtubeURL”: “https://www.youtube.com/watch?v=EH7u0zHDlnc”
+      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc"
       "technologies”:”3D Game Studio, LiteC”
     }]
   },{
-    "company": “NCR Cebu Development Center“,
-    "position": “Software Development Engr. (C++/C#)“,
-    "startDate": “May 2007”,
-    "endDate": “March 2009”,
+    "company": "NCR Cebu Development Center",
+    "position": "Software Development Engr. (C++/C#)“,
+    "startDate": "May 2007",
+    "endDate": "March 2009",
     "summary": "Maintain and develop new modules of an existing NCR Fastlane Software application for global clients.”,
     "highlights": [],
     "projects":[]
