@@ -111,7 +111,7 @@
         "role":"Developer/Lead",
         "startDate":"2015",
         "endDate":"Present",
-	"appstoreURL":"https://itunes.apple.com/ph/app/coca-cola-happy-shopmate/id932332871?mt=8"
+	"appstoreURL":"https://itunes.apple.com/ph/app/coca-cola-happy-shopmate/id932332871?mt=8",
         "technologies":"Objective C, Pods, Xcode"
       },{
         "name":"PowerTeam",
@@ -119,7 +119,7 @@
         "role":"Developer",
         "startDate":"2015",
         "endDate":"2016",
-	"appstoreURL":"https://itunes.apple.com/us/app/id862301512"
+	"appstoreURL":"https://itunes.apple.com/us/app/id862301512",
         "technologies":"Objective C, Pods, Xcode"
       },{
         "name":"Zukii",
@@ -127,7 +127,7 @@
         "role":"Lead/Consultant",
         "startDate":"December 2016",
         "endDate":"Present",
-	"appstoreURL":"https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8"
+	"appstoreURL":"https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8",
         "technologies":"Swift, Pods, Xcode"
       },{
         "name":"Uplist",
@@ -135,7 +135,7 @@
         "role":"Main Developer",
         "startDate":"2016",
         "endDate":"2016",
-	"appstoreURL":"https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8"
+	"appstoreURL":"https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8",
         "technologies":"Objective C, Pods, Xcode"
       },{
         "name":"Wedding Spot",
@@ -143,7 +143,7 @@
         "role":"Lead Developer/Consultant",
         "startDate":"2015",
         "endDate":"Present",
-	"appstoreURL":"https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8"
+	"appstoreURL":"https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8",
         "technologies":"Objective C, Pods, Xcode"
       }
     ]
@@ -160,7 +160,7 @@
       "role":"Sole Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8"
+      "appstoreURL":"https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8",
       "technologies":"Objective C, Pods, Xcode"
     },{
       "name":"Lightning@SG!",
@@ -168,7 +168,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/us/app/lightning-sg/id619575662?mt=8"
+      "appstoreURL":"https://itunes.apple.com/us/app/lightning-sg/id619575662?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"PoGo",
@@ -176,7 +176,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/ph/app/pogo/id612615088?mt=8"
+      "appstoreURL":"https://itunes.apple.com/ph/app/pogo/id612615088?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Rent Far East",
@@ -184,7 +184,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/us/app/rent-far-east/id599476323?mt=8"
+      "appstoreURL":"https://itunes.apple.com/us/app/rent-far-east/id599476323?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"M1 Learning Centre",
@@ -192,7 +192,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/sg/app/m1-learning-centre/id552874785?mt=8"
+      "appstoreURL":"https://itunes.apple.com/sg/app/m1-learning-centre/id552874785?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Qooco Talk",
@@ -200,7 +200,7 @@
       "role":"Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/us/app/qooco-talk-china/id561485263?mt=8"
+      "appstoreURL":"https://itunes.apple.com/us/app/qooco-talk-china/id561485263?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"NEA–Life Cycle Cost Calculator",
@@ -208,7 +208,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/sg/app/life-cycle-cost- calculator/id515908851?mt=8"
+      "appstoreURL":"https://itunes.apple.com/sg/app/life-cycle-cost- calculator/id515908851?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Grammar Police– Chung Cheng Division",
@@ -216,7 +216,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/sg/app/grammar-police-chung-cheng/id520392462?mt=8"
+      "appstoreURL":"https://itunes.apple.com/sg/app/grammar-police-chung-cheng/id520392462?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"iNAPFA – Catholic High",
@@ -224,7 +224,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/cn/app/inapfa-catholic-high-school/id526311684?mt=8"
+      "appstoreURL":"https://itunes.apple.com/cn/app/inapfa-catholic-high-school/id526311684?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"We Welcome Families",
@@ -232,7 +232,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"http://itunes.apple.com/tw/app/id460007964"
+      "appstoreURL":"http://itunes.apple.com/tw/app/id460007964",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Wireless@SG Connect",
@@ -240,7 +240,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8"
+      "appstoreURL":"http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Connector - TnD",
@@ -248,7 +248,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/app/Connector-TnD/id435673819"
+      "appstoreURL":"https://itunes.apple.com/app/Connector-TnD/id435673819",
       "technologies":"Objective C, Xcode"
     }]
   },{
@@ -265,7 +265,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "appstoreURL":"http://itunes.apple.com/sg/app/eye-twister/id407187596?mt=8"
+      "appstoreURL":"http://itunes.apple.com/sg/app/eye-twister/id407187596?mt=8",
       "technologies":"Objective C, Xcode, Cocos 2D"
     }, {
       "name":"iClimbs",
@@ -280,7 +280,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc"
+      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
       "technologies":"3D Game Studio, LiteC"
     }, {
       "name":"Peloton",
@@ -288,7 +288,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc"
+      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
       "technologies":"3D Game Studio, LiteC"
     }, {
       "name":"DLL WRAPPER",
@@ -296,7 +296,7 @@
       "role":"Lead Developer",
       "startDate":"",
       "endDate":"",
-      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc"
+      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
       "technologies":"3D Game Studio, LiteC"
     }]
   },{
