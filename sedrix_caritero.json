@@ -37,7 +37,7 @@
       }, {
         "name": "Java",
         "number_of_years": 1
-      }, ]
+      }]
     },{
       "category": "Mobile Technologies",
       "technologies":[{
@@ -85,7 +85,7 @@
       }, {
         "name": "Mac",
         "number_of_years": 6
-      }, , {
+      },{
         "name": "Linux",
         "number_of_years": 1
       }]
