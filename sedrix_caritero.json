@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Sedrix Caritero”,
-    "label": "Senior iOS Developer“,
-    "picture": "https://media.licdn.com/media/p/8/005/095/163/37256de.jpg",
+    "name": "Sedrix Caritero",
+    "label": "Senior iOS Developer",
+    "picture": "http://imgur.com/JJG81j4",
     "email": "sedrix.caritero@flightdigitalmedia.com",
-    "phone": "+639778118790”
+    "phone": "+639778118790"
   },
   "education": [{
-    "institution": "University of San Carlos - Technological Center”,
-    "course": "Computer Engineering“,
+    "institution": "University of San Carlos - Technological Center",
+    "course": "Computer Engineering",
     "studyType": "Bachelor",
     "startDate": "2002”,
     "endDate": "2007”
@@ -114,37 +114,37 @@
 	"appstoreURL”:”https://itunes.apple.com/ph/app/coca-cola-happy-shopmate/id932332871?mt=8"
         "technologies”:”Objective C, Pods, Xcode”
       },{
-        "name”:”PowerTeam”,
+        "name":"PowerTeam",
         "description”:”A utility application for sports organizers, team and players. It caters a lot of features to that will help organize and feed data for the team and players. “,
-        "role":"Developer”,
-        "startDate":"2015”,
-        "endDate”:”2016”,
+        "role":"Developer",
+        "startDate":"2015",
+        "endDate":"2016",
 	"appstoreURL”:”https://itunes.apple.com/us/app/id862301512"
         "technologies”:”Objective C, Pods, Xcode”
       },{
-        "name”:”Zukii”,
-        "description”:”A utility application for sports organizers, team and players. It caters a lot of features to that will help organize and feed data for the team and players. “,
-        "role":"Lead/Consultant”,
-        "startDate":"December 2016”,
-        "endDate”:”Present”,
+        "name":"Zukii",
+        "description":"A utility application for sports organizers, team and players. It caters a lot of features to that will help organize and feed data for the team and players. “,
+        "role":"Lead/Consultant",
+        "startDate":"December 2016",
+        "endDate":"Present",
 	"appstoreURL":"https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8"
         "technologies”:”Swift, Pods, Xcode”
       },{
-        "name”:”Uplist”,
-        "description”:”UpList is a beautiful list making and social bookmarking app. Save everything interesting across all your apps in one central location. My main tasks is to work side by side with the client and interpreting it’s idea into a feature.“,
-        "role”:”Main Developer”,
-        "startDate”:”2016”,
-        "endDate”:”2016”,
+        "name":"Uplist",
+        "description":"UpList is a beautiful list making and social bookmarking app. Save everything interesting across all your apps in one central location. My main tasks is to work side by side with the client and interpreting it’s idea into a feature.",
+        "role":"Main Developer",
+        "startDate":"2016",
+        "endDate":"2016",
 	"appstoreURL":"https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8"
-        "technologies”:”Objective C, Pods, Xcode”
+        "technologies":"Objective C, Pods, Xcode"
       },{
-        "name”:”Wedding Spot”,
-        "description”:”Wedding Spot is the only place to search, price, and compare wedding venues. Discover over 10,000 venues nationwide, book a free appointment, and find your perfect wedding venue!“,
-        "role”:”Lead Developer/Consultant”,
-        "startDate":"2015”,
-        "endDate”:”Present”,
+        "name":"Wedding Spot",
+        "description":"Wedding Spot is the only place to search, price, and compare wedding venues. Discover over 10,000 venues nationwide, book a free appointment, and find your perfect wedding venue!“,
+        "role":"Lead Developer/Consultant",
+        "startDate":"2015",
+        "endDate":"Present",
 	"appstoreURL":"https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8"
-        "technologies”:”Objective C, Pods, Xcode”
+        "technologies":"Objective C, Pods, Xcode"
       }
     ]
   },{
@@ -241,7 +241,7 @@
       "startDate":"",
       "endDate":"",
       "appstoreURL":"http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8"
-      "technologies”:”Objective C, Xcode”
+      "technologies":"Objective C, Xcode"
     },{
       "name":"Connector - TnD",
       "description":"Connector is a cloud-based application for location-based event reporting and message dissemination. The service supports a wide range of location-aware devices including smart phones, wireless routers and other GPS devices. It is suitable for businesses and organizations of all sizes as well as for individuals.",
