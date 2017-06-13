@@ -1,314 +1,282 @@
 {
-  "basics": {
-    "name": "Sedrix Caritero",
-    "label": "Senior iOS Developer",
-    "picture": "http://s.pictub.club/2017/05/03/730gD8.jpg",
-    "email": "sedrix.caritero@flightdigitalmedia.com",
-    "phone": "+639778118790"
-  },
-  "education": [{
-    "institution": "University of San Carlos - Technological Center",
-    "course": "Computer Engineering",
-    "studyType": "Bachelor",
-    "startDate": "2002",
-    "endDate": "2007"
-  }],
-  "skills": [
-    {
-      "category": "Programming Languages",
-      "technologies":[{
-        "name": "C++",
-        "number_of_years": 2
-      }, {
-        "name": "Lite C - 3D Game Studio",
-        "number_of_years": 2
-      }, {
-        "name": "Javascript",
-        "number_of_years": 0.5
-      }, {
-        "name": "Objective C",
-        "number_of_years": 4
-      }, {
-        "name": "Swift",
-        "number_of_years": 1
-      }, {
-        "name": "C#",
-        "number_of_years": 0.5
-      }, {
-        "name": "Java",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Mobile Technologies",
-      "technologies":[{
-        "name": "Objective C",
-        "number_of_years": 4
-      }, {
-        "name": "Swift",
-        "number_of_years": 1
-      }, {
-        "name": "Cocos2D",
-        "number_of_years": 0.5
-      }]
-    },{
-      "category": "Development Frameworks",
-      "technologies":[{
-        "name": "Parse",
-        "number_of_years": 1
-      }, {
-        "name": "Firebase",
-        "number_of_years": 0.5
-      }, {
-        "name": "RxSwift",
-        "number_of_years": 0.5
-      }, {
-        "name": "Pods",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
-        "name": "Git",
-        "number_of_years": 4
-      }, {
-        "name": "Subversion",
-        "number_of_years": 2
-      }, {
-        "name": "Mercurial",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Operating System",
-      "technologies":[{
-        "name": "Windows",
-        "number_of_years": 10
-      }, {
-        "name": "Mac",
-        "number_of_years": 6
-      },{
-        "name": "Linux",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Web Services",
-      "technologies":[{
-        "name": "Amazon Web Services",
-        "number_of_years": 1
-      }]
-    }
-  ],
-  "work": [{
-    "company": "Flight Digital Media",
-    "position": "iOS Developer",
-    "startDate": "April 2014",
-    "endDate": "Present",
-    "summary": "Build iOS applications both internal and outsourced apps. Lead the ios team and help gather requirements and estimates to build an iOS app.",
-    "highlights": [],
-    "projects":[
-      {
-        "name":"Coca-Cola Happy Shopmate",
-        "description":"An application with a variety of features that highlights about rewards and coupons to consumers.",
-        "role":"Developer/Lead",
-        "startDate":"2015",
-        "endDate":"Present",
-	"appstoreURL":"https://itunes.apple.com/ph/app/coca-cola-happy-shopmate/id932332871?mt=8",
-        "technologies":"Objective C, Pods, Xcode"
-      },{
-        "name":"PowerTeam",
-        "description":"A utility application for sports organizers, team and players. It caters a lot of features to that will help organize and feed data for the team and players. ",
-        "role":"Developer",
-        "startDate":"2015",
-        "endDate":"2016",
-	"appstoreURL":"https://itunes.apple.com/us/app/id862301512",
-        "technologies":"Objective C, Pods, Xcode"
-      },{
-        "name":"Zukii",
-        "description":"An ecommerce app intended for B2B and B2C model breaking the gap of the principal distributors down to the simpliest retailer and consumer.",
-        "role":"Lead/Consultant",
-        "startDate":"December 2016",
-        "endDate":"Present",
-	"appstoreURL":"https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8",
-        "technologies":"Swift, Pods, Xcode"
-      },{
-        "name":"Uplist",
-        "description":"UpList is a beautiful list making and social bookmarking app. Save everything interesting across all your apps in one central location. My main tasks is to work side by side with the client and interpreting it’s idea into a feature.",
-        "role":"Main Developer",
-        "startDate":"2016",
-        "endDate":"2016",
-	"appstoreURL":"https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8",
-        "technologies":"Objective C, Pods, Xcode"
-      },{
-        "name":"Wedding Spot",
-        "description":"Wedding Spot is the only place to search, price, and compare wedding venues. Discover over 10,000 venues nationwide, book a free appointment, and find your perfect wedding venue!",
-        "role":"Lead Developer/Consultant",
-        "startDate":"2015",
-        "endDate":"Present",
-	"appstoreURL":"https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8",
-        "technologies":"Objective C, Pods, Xcode"
-      }
-    ]
-  },{
-    "company": "Nano Equipment PTE LTD",
-    "role": "iOS Developer",
-    "startDate": "March 2011",
-    "endDate": "April 2014",
-    "summary": "Work with backend team, account managers & testers from requirements gathering until product launching. Attend client meetings and presentations of the proposals and milestone for each iOS application.",
-    "highlights": [],
-    "projects":[{
-      "name":"oktoLIVE!",
-      "description":"oktoLIVE! is a live TV variety show focusing on kids and the youth of  today. The show is produced by MediaCorp, Singapore’s leading media company and  the only terrestrial TV broadcaster.",
-      "role":"Sole Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8",
-      "technologies":"Objective C, Pods, Xcode"
-    },{
-      "name":"Lightning@SG!",
-      "description":"Lightning@SG is the app that provides you with the current lightning  situation in Singapore. Developed by National Environment Agency (NEA), this app  uses lightning information from the latest lightning detection and location system",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/us/app/lightning-sg/id619575662?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"PoGo",
-      "description":"PoGo let user write a poem over a selected background image. The image may be a photo taken with the iPad or an image chosen from bundled images or the camera roll. Project owner may add collaborators to their projects and use the built-in text chat feature to communicate with each other. All collaborators may contribute to the poem. The text input of each collaborator is marked by a different font colour for ease of tracking.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/ph/app/pogo/id612615088?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"Rent Far East",
-      "description":"A catalogue app that will display all the information of the company properties including latest pictures, virtual tours and panoramic views of the residential, business space, industrial and medical suites.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/us/app/rent-far-east/id599476323?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"M1 Learning Centre",
-      "description":"An app that will showcase all the available pdf and epubs downloadable by the user. The user can read and put highlights, annotations and bookmarks on the downloaded books.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/sg/app/m1-learning-centre/id552874785?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"Qooco Talk",
-      "description":"You will improve by leaps and bounds as Qooco Talk's immersive learning environment will keep you engaged with fun, effective exercises that are fully interactive. You will click, listen, observe and most importantly speak.",
-      "role":"Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/us/app/qooco-talk-china/id561485263?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"NEA–Life Cycle Cost Calculator",
-      "description":"While energy efficient models may have higher purchase price than less efficient ones, they tend to have lower life cycle costs due to the lower electricity costs over their lifespan.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/sg/app/life-cycle-cost- calculator/id515908851?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"Grammar Police– Chung Cheng Division",
-      "description":"Use the Grammar Police App to capture evidence of instances where English were used wrongly, then offer your corrections by commenting on the evidence. With its social networking functions, you and your friends can share, rate and comment on each others’ evidence and corrections. The app can also record where the evidence was captured.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/sg/app/grammar-police-chung-cheng/id520392462?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"iNAPFA – Catholic High",
-      "description":"iNAPFA let teachers record students’ NAPFA trials and actual test results on the spot without the needs for paper. Results are wirelessly uploaded and stored on a server. Results and reports can be retrieved from iNAPFA web site. Points and awards are automatically calculated based on results and the age of the student. iNAPFA helps to improve productivity and save the environment.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/cn/app/inapfa-catholic-high-school/id526311684?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"We Welcome Families",
-      "description":"Organized by the Business for Families Council (BFC) to display the exciting promotions and let the user join the photo contest by taking the photo from iphone.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"http://itunes.apple.com/tw/app/id460007964",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"Wireless@SG Connect",
-      "description":"M1 Utility that can connect to wireless@SG seamlessly, the app is capable of getting the password through SMS on iphone and through request on iPad. Uses encrypted data for web to mobile communication",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8",
-      "technologies":"Objective C, Xcode"
-    },{
-      "name":"Connector - TnD",
-      "description":"Connector is a cloud-based application for location-based event reporting and message dissemination. The service supports a wide range of location-aware devices including smart phones, wireless routers and other GPS devices. It is suitable for businesses and organizations of all sizes as well as for individuals.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"https://itunes.apple.com/app/Connector-TnD/id435673819",
-      "technologies":"Objective C, Xcode"
-    }]
-  },{
-    "company": "Gemango Software Services Inc.",
-    "position": "Game Developer",
-    "startDate": "March 2009",
-    "endDate": "April 2011",
-    "summary": "Scoping, Designing, Development, System Integration and Testing of new software and hardware components. Identify, track and find solutions for bugs of the game. Make procedural documentations and test plans",
-    "highlights": [],
-    "projects":[
-	{
-      "name":"Eye-Twister",
-      "description":"A game application where the user needs to find the difference between the vector drawing.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "appstoreURL":"http://itunes.apple.com/sg/app/eye-twister/id407187596?mt=8",
-      "technologies":"Objective C, Xcode, Cocos 2D"
-    }, {
-      "name":"iClimbs",
-      "description":"An iOS application for bicycle climbers that draws a slope graph of the certain place to be climbed. It calculates the speed, number of teeth for the gears, distance and the pitch angle. In addition it will provide local and online libraries of available climbs which can be downloaded.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "technologies":"Objective C, Xcode, Cocos 2D"
-    }, {
-      "name":"AQARIUS",
-      "description":"A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
-      "technologies":"3D Game Studio, LiteC"
-    }, {
-      "name":"Peloton",
-      "description":"A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
-      "technologies":"3D Game Studio, LiteC"
-    }, {
-      "name":"DLL WRAPPER",
-      "description":"This is a dll wrapper that will take its role as a bridge between 3dgamestudio (Lite-C) and the driver dll of the hardware to get and set all it’s attributes like the real speed of the bicycle, cadence speed and the brake resistance.",
-      "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
-      "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
-      "technologies":"3D Game Studio, LiteC"
-    }]
-  },{
-    "company": "NCR Cebu Development Center",
-    "position": "Software Development Engr. (C++/C#)",
-    "startDate": "May 2007",
-    "endDate": "March 2009",
-    "summary": "Maintain and develop new modules of an existing NCR Fastlane Software application for global clients.",
-    "highlights": [],
-    "projects":[]
-  }
-  ],
-	
-  "certification": []
+	"basics": {
+		"name": "Sedrix Caritero",
+		"label": "Senior iOS Developer",
+		"picture": "http://s.pictub.club/2017/05/03/730gD8.jpg",
+		"email": "sedrix.caritero@flightdigitalmedia.com",
+		"phone": "+639778118790"
+	},
+	"education": [{
+		"institution": "University of San Carlos - Technological Center",
+		"course": "Computer Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2002",
+		"endDate": "2007"
+	}],
+	"skills": [{
+		"category": "Programming Languages",
+		"technologies": [{
+			"name": "C++",
+			"number_of_years": 2
+		}, {
+			"name": "Lite C - 3D Game Studio",
+			"number_of_years": 2
+		}, {
+			"name": "Javascript",
+			"number_of_years": 0.5
+		}, {
+			"name": "Objective C",
+			"number_of_years": 4
+		}, {
+			"name": "Swift",
+			"number_of_years": 1
+		}, {
+			"name": "C#",
+			"number_of_years": 0.5
+		}, {
+			"name": "Java",
+			"number_of_years": 1
+		}]
+	}, {
+		"category": "Mobile Technologies",
+		"technologies": [{
+			"name": "Objective C",
+			"number_of_years": 4
+		}, {
+			"name": "Swift",
+			"number_of_years": 1
+		}, {
+			"name": "Cocos2D",
+			"number_of_years": 0.5
+		}]
+	}, {
+		"category": "Development Frameworks",
+		"technologies": [{
+			"name": "Parse",
+			"number_of_years": 1
+		}, {
+			"name": "Firebase",
+			"number_of_years": 0.5
+		}, {
+			"name": "RxSwift",
+			"number_of_years": 0.5
+		}, {
+			"name": "Pods",
+			"number_of_years": 2
+		}]
+	}, {
+		"category": "Version Control",
+		"technologies": [{
+			"name": "Git",
+			"number_of_years": 4
+		}, {
+			"name": "Subversion",
+			"number_of_years": 2
+		}, {
+			"name": "Mercurial",
+			"number_of_years": 1
+		}]
+	}, {
+		"category": "Operating System",
+		"technologies": [{
+			"name": "Windows",
+			"number_of_years": 10
+		}, {
+			"name": "Mac",
+			"number_of_years": 6
+		}, {
+			"name": "Linux",
+			"number_of_years": 1
+		}]
+	}, {
+		"category": "Web Services",
+		"technologies": [{
+			"name": "Amazon Web Services",
+			"number_of_years": 1
+		}]
+	}],
+	"projects": [{
+		"name": "Coca-Cola Happy Shopmate",
+		"description": "An application with a variety of features that highlights about rewards and coupons to consumers.",
+		"role": "Developer/Lead",
+		"startDate": "2015",
+		"endDate": "Present",
+		"appstoreURL": "https://itunes.apple.com/ph/app/coca-cola-happy-shopmate/id932332871?mt=8",
+		"technologies": "Objective C, Pods, Xcode"
+	}, {
+		"name": "PowerTeam",
+		"description": "A utility application for sports organizers, team and players. It caters a lot of features to that will help organize and feed data for the team and players. ",
+		"role": "Developer",
+		"startDate": "2015",
+		"endDate": "2016",
+		"appstoreURL": "https://itunes.apple.com/us/app/id862301512",
+		"technologies": "Objective C, Pods, Xcode"
+	}, {
+		"name": "Zukii",
+		"description": "An ecommerce app intended for B2B and B2C model breaking the gap of the principal distributors down to the simpliest retailer and consumer.",
+		"role": "Lead/Consultant",
+		"startDate": "December 2016",
+		"endDate": "Present",
+		"appstoreURL": "https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8",
+		"technologies": "Swift, Pods, Xcode"
+	}, {
+		"name": "Uplist",
+		"description": "UpList is a beautiful list making and social bookmarking app. Save everything interesting across all your apps in one central location. My main tasks is to work side by side with the client and interpreting it’s idea into a feature.",
+		"role": "Main Developer",
+		"startDate": "2016",
+		"endDate": "2016",
+		"appstoreURL": "https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8",
+		"technologies": "Objective C, Pods, Xcode"
+	}, {
+		"name": "Wedding Spot",
+		"description": "Wedding Spot is the only place to search, price, and compare wedding venues. Discover over 10,000 venues nationwide, book a free appointment, and find your perfect wedding venue!",
+		"role": "Lead Developer/Consultant",
+		"startDate": "2015",
+		"endDate": "Present",
+		"appstoreURL": "https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8",
+		"technologies": "Objective C, Pods, Xcode"
+	}, {
+		"name": "oktoLIVE!",
+		"description": "oktoLIVE! is a live TV variety show focusing on kids and the youth of  today. The show is produced by MediaCorp, Singapore’s leading media company and  the only terrestrial TV broadcaster.",
+		"role": "Sole Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8",
+		"technologies": "Objective C, Pods, Xcode"
+	}, {
+		"name": "Lightning@SG!",
+		"description": "Lightning@SG is the app that provides you with the current lightning  situation in Singapore. Developed by National Environment Agency (NEA), this app  uses lightning information from the latest lightning detection and location system",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/us/app/lightning-sg/id619575662?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "PoGo",
+		"description": "PoGo let user write a poem over a selected background image. The image may be a photo taken with the iPad or an image chosen from bundled images or the camera roll. Project owner may add collaborators to their projects and use the built-in text chat feature to communicate with each other. All collaborators may contribute to the poem. The text input of each collaborator is marked by a different font colour for ease of tracking.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/ph/app/pogo/id612615088?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "Rent Far East",
+		"description": "A catalogue app that will display all the information of the company properties including latest pictures, virtual tours and panoramic views of the residential, business space, industrial and medical suites.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/us/app/rent-far-east/id599476323?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "M1 Learning Centre",
+		"description": "An app that will showcase all the available pdf and epubs downloadable by the user. The user can read and put highlights, annotations and bookmarks on the downloaded books.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/sg/app/m1-learning-centre/id552874785?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "Qooco Talk",
+		"description": "You will improve by leaps and bounds as Qooco Talk's immersive learning environment will keep you engaged with fun, effective exercises that are fully interactive. You will click, listen, observe and most importantly speak.",
+		"role": "Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/us/app/qooco-talk-china/id561485263?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "NEA–Life Cycle Cost Calculator",
+		"description": "While energy efficient models may have higher purchase price than less efficient ones, they tend to have lower life cycle costs due to the lower electricity costs over their lifespan.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/sg/app/life-cycle-cost- calculator/id515908851?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "Grammar Police– Chung Cheng Division",
+		"description": "Use the Grammar Police App to capture evidence of instances where English were used wrongly, then offer your corrections by commenting on the evidence. With its social networking functions, you and your friends can share, rate and comment on each others’ evidence and corrections. The app can also record where the evidence was captured.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/sg/app/grammar-police-chung-cheng/id520392462?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "iNAPFA – Catholic High",
+		"description": "iNAPFA let teachers record students’ NAPFA trials and actual test results on the spot without the needs for paper. Results are wirelessly uploaded and stored on a server. Results and reports can be retrieved from iNAPFA web site. Points and awards are automatically calculated based on results and the age of the student. iNAPFA helps to improve productivity and save the environment.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/cn/app/inapfa-catholic-high-school/id526311684?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "We Welcome Families",
+		"description": "Organized by the Business for Families Council (BFC) to display the exciting promotions and let the user join the photo contest by taking the photo from iphone.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "http://itunes.apple.com/tw/app/id460007964",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "Wireless@SG Connect",
+		"description": "M1 Utility that can connect to wireless@SG seamlessly, the app is capable of getting the password through SMS on iphone and through request on iPad. Uses encrypted data for web to mobile communication",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "Connector - TnD",
+		"description": "Connector is a cloud-based application for location-based event reporting and message dissemination. The service supports a wide range of location-aware devices including smart phones, wireless routers and other GPS devices. It is suitable for businesses and organizations of all sizes as well as for individuals.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "https://itunes.apple.com/app/Connector-TnD/id435673819",
+		"technologies": "Objective C, Xcode"
+	}, {
+		"name": "Eye-Twister",
+		"description": "A game application where the user needs to find the difference between the vector drawing.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"appstoreURL": "http://itunes.apple.com/sg/app/eye-twister/id407187596?mt=8",
+		"technologies": "Objective C, Xcode, Cocos 2D"
+	}, {
+		"name": "iClimbs",
+		"description": "An iOS application for bicycle climbers that draws a slope graph of the certain place to be climbed. It calculates the speed, number of teeth for the gears, distance and the pitch angle. In addition it will provide local and online libraries of available climbs which can be downloaded.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"technologies": "Objective C, Xcode, Cocos 2D"
+	}, {
+		"name": "AQARIUS",
+		"description": "A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
+		"technologies": "3D Game Studio, LiteC"
+	}, {
+		"name": "Peloton",
+		"description": "A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
+		"technologies": "3D Game Studio, LiteC"
+	}, {
+		"name": "DLL WRAPPER",
+		"description": "This is a dll wrapper that will take its role as a bridge between 3dgamestudio (Lite-C) and the driver dll of the hardware to get and set all it’s attributes like the real speed of the bicycle, cadence speed and the brake resistance.",
+		"role": "Lead Developer",
+		"startDate": "",
+		"endDate": "",
+		"youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
+		"technologies": "3D Game Studio, LiteC"
+	}, {
+		"name": "FASTLANE",
+		"description": "Maintain and develop new modules of an existing NCR Fastlane Software application for global clients.",
+		"role": "Developer",
+		"startDate": "May 2007",
+		"endDate": "March 2009",
+		"technologies": "C++, C#"
+	}],
+	"certification": []
 }
