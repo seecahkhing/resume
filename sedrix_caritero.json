@@ -158,97 +158,96 @@
       "name":"oktoLIVE!",
       "description":"oktoLIVE! is a live TV variety show focusing on kids and the youth of  today. The show is produced by MediaCorp, Singapore’s leading media company and  the only terrestrial TV broadcaster.",
       "role":"Sole Developer",
-      "startDate":"",
-      "endDate":"",
-      "months":"(1.5 months)",          
+      "startDate":"2013",
+      "endDate":"2013(1.5 months)" ,
       "appstoreURL":"https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8",
       "technologies":"Objective C, Pods, Xcode"
     },{
       "name":"Lightning@SG!",
       "description":"Lightning@SG is the app that provides you with the current lightning  situation in Singapore. Developed by National Environment Agency (NEA), this app  uses lightning information from the latest lightning detection and location system",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2014",
+      "endDate":"2014 (5 months)",
       "appstoreURL":"https://itunes.apple.com/us/app/lightning-sg/id619575662?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"PoGo",
       "description":"PoGo let user write a poem over a selected background image. The image may be a photo taken with the iPad or an image chosen from bundled images or the camera roll. Project owner may add collaborators to their projects and use the built-in text chat feature to communicate with each other. All collaborators may contribute to the poem. The text input of each collaborator is marked by a different font colour for ease of tracking.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2013",
+      "endDate":"2013 (2 months)",
       "appstoreURL":"https://itunes.apple.com/ph/app/pogo/id612615088?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Rent Far East",
       "description":"A catalogue app that will display all the information of the company properties including latest pictures, virtual tours and panoramic views of the residential, business space, industrial and medical suites.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2013",
+      "endDate":"2013 (2 months)",
       "appstoreURL":"https://itunes.apple.com/us/app/rent-far-east/id599476323?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"M1 Learning Centre",
       "description":"An app that will showcase all the available pdf and epubs downloadable by the user. The user can read and put highlights, annotations and bookmarks on the downloaded books.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2013",
+      "endDate":"2014 (5 months)",
       "appstoreURL":"https://itunes.apple.com/sg/app/m1-learning-centre/id552874785?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Qooco Talk",
       "description":"You will improve by leaps and bounds as Qooco Talk's immersive learning environment will keep you engaged with fun, effective exercises that are fully interactive. You will click, listen, observe and most importantly speak.",
       "role":"Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2013",
+      "endDate":"2014 (6 months)",
       "appstoreURL":"https://itunes.apple.com/us/app/qooco-talk-china/id561485263?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"NEA–Life Cycle Cost Calculator",
       "description":"While energy efficient models may have higher purchase price than less efficient ones, they tend to have lower life cycle costs due to the lower electricity costs over their lifespan.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015 (2 months)",
       "appstoreURL":"https://itunes.apple.com/sg/app/life-cycle-cost- calculator/id515908851?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Grammar Police– Chung Cheng Division",
       "description":"Use the Grammar Police App to capture evidence of instances where English were used wrongly, then offer your corrections by commenting on the evidence. With its social networking functions, you and your friends can share, rate and comment on each others’ evidence and corrections. The app can also record where the evidence was captured.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2014",
+      "endDate":"2014 (2 months)",
       "appstoreURL":"https://itunes.apple.com/sg/app/grammar-police-chung-cheng/id520392462?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"iNAPFA – Catholic High",
       "description":"iNAPFA let teachers record students’ NAPFA trials and actual test results on the spot without the needs for paper. Results are wirelessly uploaded and stored on a server. Results and reports can be retrieved from iNAPFA web site. Points and awards are automatically calculated based on results and the age of the student. iNAPFA helps to improve productivity and save the environment.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015 (2 months)",
       "appstoreURL":"https://itunes.apple.com/cn/app/inapfa-catholic-high-school/id526311684?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"We Welcome Families",
       "description":"Organized by the Business for Families Council (BFC) to display the exciting promotions and let the user join the photo contest by taking the photo from iphone.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2015 (1.5 month)",
       "appstoreURL":"http://itunes.apple.com/tw/app/id460007964",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Wireless@SG Connect",
       "description":"M1 Utility that can connect to wireless@SG seamlessly, the app is capable of getting the password through SMS on iphone and through request on iPad. Uses encrypted data for web to mobile communication",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2014",
+      "endDate":"2014 (2 months)",
       "appstoreURL":"http://itunes.apple.com/sg/app/wireless-sg-connect/id455194154?mt=8",
       "technologies":"Objective C, Xcode"
     },{
       "name":"Connector - TnD",
       "description":"Connector is a cloud-based application for location-based event reporting and message dissemination. The service supports a wide range of location-aware devices including smart phones, wireless routers and other GPS devices. It is suitable for businesses and organizations of all sizes as well as for individuals.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2013",
+      "endDate":"2013 (2 months)",
       "appstoreURL":"https://itunes.apple.com/app/Connector-TnD/id435673819",
       "technologies":"Objective C, Xcode"
     }]
@@ -264,39 +263,39 @@
       "name":"Eye-Twister",
       "description":"A game application where the user needs to find the difference between the vector drawing.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2012",
+      "endDate":"2012 (2 months)",
       "appstoreURL":"http://itunes.apple.com/sg/app/eye-twister/id407187596?mt=8",
       "technologies":"Objective C, Xcode, Cocos 2D"
     }, {
       "name":"iClimbs",
       "description":"An iOS application for bicycle climbers that draws a slope graph of the certain place to be climbed. It calculates the speed, number of teeth for the gears, distance and the pitch angle. In addition it will provide local and online libraries of available climbs which can be downloaded.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":" 2012",
+      "endDate":"2012 (1 month)",
       "technologies":"Objective C, Xcode, Cocos 2D"
     }, {
       "name":"AQARIUS",
       "description":"A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2011",
+      "endDate":"2012 (10 months)",
       "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
       "technologies":"3D Game Studio, LiteC"
     }, {
       "name":"Peloton",
       "description":"A game application that can be compared to Ricochet, it is a break out game where the player needs to complete each level with various kinds of bricks (gems, bomb, power up bricks, shell brick that produces pearl when hit for additional points and randomly releases various power ups). The user will be using a real bicycle to control the ball catcher. Screenshots can be provided if needed.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2011",
+      "endDate":"2012 (10 months)",
       "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
       "technologies":"3D Game Studio, LiteC"
     }, {
       "name":"DLL WRAPPER",
       "description":"This is a dll wrapper that will take its role as a bridge between 3dgamestudio (Lite-C) and the driver dll of the hardware to get and set all it’s attributes like the real speed of the bicycle, cadence speed and the brake resistance.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2012",
+      "endDate":"2012 (2 months)",
       "youtubeURL": "https://www.youtube.com/watch?v=EH7u0zHDlnc",
       "technologies":"3D Game Studio, LiteC"
     }]
@@ -307,7 +306,14 @@
     "endDate": "March 2009",
     "summary": "Maintain and develop new modules of an existing NCR Fastlane Software application for global clients.",
     "highlights": [],
-    "projects":[]
+    "projects":[{
+        "name": "FASTLANE",
+        "description": "Maintain and develop new modules of an existing NCR Fastlane Software application for global clients.",
+        "role": "Developer",
+        "startDate": "May 2007",
+        "endDate": "March 2009 (22 months)",
+        "technologies": "C++, C#"
+      }]
   }
   ],
 	
