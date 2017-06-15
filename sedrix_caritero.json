@@ -118,7 +118,7 @@
         "description":"A utility application for sports organizers, team and players. It caters a lot of features to that will help organize and feed data for the team and players. ",
         "role":"Developer",
         "startDate":"2015",
-        "endDate":"2016",
+        "endDate":"2015 (3 months)",
 	"appstoreURL":"https://itunes.apple.com/us/app/id862301512",
         "technologies":"Objective C, Pods, Xcode"
       },{
@@ -126,15 +126,15 @@
         "description":"An ecommerce app intended for B2B and B2C model breaking the gap of the principal distributors down to the simpliest retailer and consumer.",
         "role":"Lead/Consultant",
         "startDate":"December 2016",
-        "endDate":"Present",
+        "endDate":"Present (7 months)",
 	"appstoreURL":"https://itunes.apple.com/sc/app/zukii/id1197134631?mt=8",
         "technologies":"Swift, Pods, Xcode"
       },{
         "name":"Uplist",
         "description":"UpList is a beautiful list making and social bookmarking app. Save everything interesting across all your apps in one central location. My main tasks is to work side by side with the client and interpreting it’s idea into a feature.",
         "role":"Main Developer",
-        "startDate":"2016",
-        "endDate":"2016",
+        "startDate":"2015",
+        "endDate":"2016 (7 months)",
 	"appstoreURL":"https://itunes.apple.com/us/app/uplist-list-bookmark-and-curate/id1031791837?mt=8",
         "technologies":"Objective C, Pods, Xcode"
       },{
@@ -142,7 +142,7 @@
         "description":"Wedding Spot is the only place to search, price, and compare wedding venues. Discover over 10,000 venues nationwide, book a free appointment, and find your perfect wedding venue!",
         "role":"Lead Developer/Consultant",
         "startDate":"2015",
-        "endDate":"Present",
+        "endDate":"Present as Consultant (6 months as developer)",
 	"appstoreURL":"https://itunes.apple.com/us/app/wedding-spot/id1039250968?mt=8",
         "technologies":"Objective C, Pods, Xcode"
       }
@@ -160,6 +160,7 @@
       "role":"Sole Developer",
       "startDate":"",
       "endDate":"",
+      "months":"(1.5 months)",          
       "appstoreURL":"https://itunes.apple.com/ph/app/oktolive!/id557173148?mt=8",
       "technologies":"Objective C, Pods, Xcode"
     },{
